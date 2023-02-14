@@ -1,0 +1,17 @@
+E:\c#app\定时关机\smpc\smpc\bin\Release\smpc.exe
+E:\c#app\定时关机\smpc\smpc\bin\Release\smpc.pdb
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.csprojAssemblyReference.cache
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.Form1.resources
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.Properties.Resources.resources
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.csproj.GenerateResource.cache
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.csproj.CoreCompileInputs.cache
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.exe
+E:\c#app\定时关机\smpc\smpc\obj\Release\smpc.pdb
+E:\MyFiles\C#\定时关机\smpc\smpc\bin\Release\smpc.exe
+E:\MyFiles\C#\定时关机\smpc\smpc\bin\Release\smpc.pdb
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.csprojAssemblyReference.cache
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.Form1.resources
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.Properties.Resources.resources
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.csproj.GenerateResource.cache
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.exe
+E:\MyFiles\C#\定时关机\smpc\smpc\obj\Release\smpc.pdb
