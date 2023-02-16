@@ -23,3 +23,14 @@ E:\文件们\Myfiles\MyFiles20210101\C#\定时关机\smpc\smpc\obj\Debug\smpc.cs
 E:\文件们\Myfiles\MyFiles20210101\C#\定时关机\smpc\smpc\obj\Debug\smpc.csproj.CoreCompileInputs.cache
 E:\文件们\Myfiles\MyFiles20210101\C#\定时关机\smpc\smpc\obj\Debug\smpc.exe
 E:\文件们\Myfiles\MyFiles20210101\C#\定时关机\smpc\smpc\obj\Debug\smpc.pdb
+C:\Users\dwl313\Desktop\stpc\bin\Debug\smpc.exe.config
+C:\Users\dwl313\Desktop\stpc\bin\Debug\smpc.exe
+C:\Users\dwl313\Desktop\stpc\bin\Debug\smpc.pdb
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.csproj.AssemblyReference.cache
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.csproj.SuggestedBindingRedirects.cache
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.Form1.resources
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.Properties.Resources.resources
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.csproj.GenerateResource.cache
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.csproj.CoreCompileInputs.cache
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.exe
+C:\Users\dwl313\Desktop\stpc\obj\Debug\smpc.pdb
